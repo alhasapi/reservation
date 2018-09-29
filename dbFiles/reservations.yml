@@ -1,0 +1,43 @@
+- destinations:
+  - - 12
+    - France
+  rWhenAndWhere:
+  - 20/03/2017
+  - 23
+  registedAt: 14/01/2017
+  at: ''
+  reserverdCars:
+  - - at1: ''
+      dname: Hazam
+      affectedTo: null
+    - reserved: false
+      capacity: 77
+      d_date: ''
+      elapsed_dist: 0
+      r_hour: 0
+      d_hour: 0
+      r_date: ''
+  - - at1: ''
+      dname: IbnKaldun
+      affectedTo: null
+    - reserved: false
+      capacity: 12
+      d_date: ''
+      elapsed_dist: 0
+      r_hour: 0
+      d_hour: 0
+      r_date: ''
+  - - at1: ''
+      dname: Hidden
+      affectedTo: null
+    - reserved: false
+      capacity: 34
+      d_date: ''
+      elapsed_dist: 0
+      r_hour: 0
+      d_hour: 0
+      r_date: ''
+  withGuides: []
+  dWhenAndWhere:
+  - 18/03/2017
+  - 14

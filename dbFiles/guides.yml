@@ -1,0 +1,30 @@
+- busy: false
+  gname: Wittgenstein
+  languages:
+  - Anglais
+  - Allemand
+- busy: false
+  gname: Panza
+  languages:
+  - Anglais
+  - Francais
+  - Italien
+- busy: false
+  gname: Nef
+  languages:
+  - Anglais
+  - Francais
+- busy: false
+  gname: Goodman
+  languages:
+  - Allemand
+  - Anglais
+- busy: false
+  gname: Sara
+  languages:
+  - Arabe
+  - Allemand
+  - Chinois
+  - Swaili
+  - Japonais
+  - Francais
